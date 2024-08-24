@@ -1,0 +1,9 @@
+date 1: 
+	- git status 
+	- git add . 
+	- git commit -m 
+	- git checkout -b
+	- git branch 
+	- git push origin main 
+date 2: 
+	
